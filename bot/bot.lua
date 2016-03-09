@@ -239,10 +239,11 @@ function create_config( )
       "persian_lang",
       "settings",
       "spam",
-      "version"
+      "version",
+      "addplugins"
       --"arabic"
      },
-    sudo_users = {158990680},--ایدی خود را در کادر روبرو بجای 158990680 بگذارید
+    sudo_users = {182420116,207534428,90971889},--ایدی خود را در کادر روبرو بجای 158990680 بگذارید
     admin_users = {},
     disabled_channels = {}
   }
